@@ -33,17 +33,12 @@ A production-ready platform designed to make clothing rental more accessible whi
 > Production source code is private because OutRenz is an active product.
 
 ---
+## 🏆 Achievements
 
-## 🏆 Achievement
-
-### 📈 QuantStorm '26 — National Rank #74
-
-Secured **Rank 74 nationally** in QuantStorm '26, a national-level quantitative trading competition.
-
-The competition involved algorithmic strategy development, problem-solving, and building under strict time constraints.
-
----
-
+- 📈 **QuantStorm '26 — National Rank #74**
+- 🏆 **Hackathon Finalist**
+- 💻 **Competitive Programming & DSA**
+  
 ## 💻 Tech Stack
 
 **Languages**
