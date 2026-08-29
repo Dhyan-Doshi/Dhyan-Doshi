@@ -1,23 +1,13 @@
-👋 Heyyy! I'm Dhyan Doshi
-CSE @ MIT-WPU, Pune | Full-Stack Developer | AI/ML | Competitive Programming
+# Hey, I'm Dhyan 👋
 
-I'm an Indian programmer who loves building real-world products, exploring AI/ML, and solving problems through code. Currently focused on DSA, full-stack engineering, AI/ML, and building projects that solve practical problems.
+### CSE @ MIT-WPU, Pune | Full-Stack Developer | AI/ML | Competitive Programming
 
+I build real-world products, explore AI/ML, and enjoy solving problems through code. Currently focused on **DSA, full-stack engineering, and building projects that solve practical problems.**
 
-
-
-
-
-
-
-
-
-🚀 Currently
-🎓 CSE student at MIT-WPU, Pune
-💻 Building real-world full-stack products
-🤖 Exploring AI/ML & intelligent applications
-🧠 Practicing DSA & Competitive Programming
-🏆 Participating in Hackathons & Technical Competitions
+[![GitHub](https://img.shields.io/badge/GitHub-Dhyan--Doshi-181717?style=for-the-badge\&logo=github)](https://github.com/Dhyan-Doshi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhyan%20Doshi-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/dhyan-doshi/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Dhyan27-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/Dhyan27/)
+[![OutRenz](https://img.shields.io/badge/OutRenz-Live%20Product-111111?style=for-the-badge)](https://outrenz.in)
 
 ## 🚀 Featured Project
 
