@@ -115,7 +115,7 @@ A premium coffee website UI featuring immersive animations, an interactive menu,
 
 ## 🤝 Let's Connect
 
-Open to discussing **technology, AI/ML, DSA, hackathons, and interesting product ideas.**
+I'm always interested in discussing **technology, AI/ML, DSA, hackathons, and interesting product ideas.**
 
 <p align="left">
 
@@ -127,8 +127,8 @@ Open to discussing **technology, AI/ML, DSA, hackathons, and interesting product
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://outrenz.in">
-<img src="https://img.shields.io/badge/OutRenz-Live-111111?style=for-the-badge"/>
+<a href="https://leetcode.com/u/Dhyan27/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </p>
