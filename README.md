@@ -6,9 +6,8 @@ I build real-world products, explore AI/ML, and enjoy solving problems through c
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dhyan--Doshi-181717?style=for-the-badge\&logo=github)](https://github.com/Dhyan-Doshi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhyan%20Doshi-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/dhyan-doshi/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Dhyan27-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/Dhyan27/)
 [![OutRenz](https://img.shields.io/badge/OutRenz-Live%20Product-111111?style=for-the-badge)](https://outrenz.in)
-
----
 
 ## 🚀 Featured Project
 
