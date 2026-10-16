@@ -2,13 +2,21 @@
 
 <div align="center">
 
-<img src="./assets/hero.svg?v=1" alt="Hero — Dhyan Doshi" width="100%" />
+<a href="#hero" id="hero">
+  <img src="./assets/hero.svg?v=1" alt="Hero — Dhyan Doshi" width="100%" />
+</a>
 
-<img src="./assets/about-life.svg?v=1" alt="About &amp; Engineering Pillars" width="100%" />
+<a href="#about" id="about">
+  <img src="./assets/about-life.svg?v=1" alt="About &amp; Engineering Pillars" width="100%" />
+</a>
 
-<img src="./assets/stack.svg?v=1" alt="Tech Stack &amp; Toolkit" width="100%" />
+<a href="#stack" id="stack">
+  <img src="./assets/stack.svg?v=1" alt="Tech Stack &amp; Toolkit" width="100%" />
+</a>
 
-<img src="./assets/id-dashboard.svg?v=1" alt="Developer ID &amp; Verified Records" width="100%" />
+<a href="#dashboard" id="dashboard">
+  <img src="./assets/id-dashboard.svg?v=1" alt="Developer ID &amp; Verified Records" width="100%" />
+</a>
 
 </div>
 
@@ -37,9 +45,13 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhyan-Doshi&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=070b16&amp;title_color=38bdf8&amp;icon_color=247bff&amp;text_color=94a3b8&amp;border_color=1e293b" alt="Dhyan Doshi GitHub Stats" height="175" />
+  <a href="#analytics" id="analytics">
+    <img src="https://github-readme-stats.vercel.app/api?username=Dhyan-Doshi&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=070b16&amp;title_color=38bdf8&amp;icon_color=247bff&amp;text_color=94a3b8&amp;border_color=1e293b" alt="Dhyan Doshi GitHub Stats" height="175" />
+  </a>
   &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Dhyan-Doshi&amp;theme=tokyonight&amp;background=070b16&amp;ring=247bff&amp;fire=ff354f&amp;currStreakLabel=00d4ff&amp;sideLabels=94a3b8&amp;dates=64748b&amp;border=1e293b" alt="Dhyan Doshi Contribution Streak" height="175" />
+  <a href="#streak" id="streak">
+    <img src="https://streak-stats.demolab.com/?user=Dhyan-Doshi&amp;theme=tokyonight&amp;background=070b16&amp;ring=247bff&amp;fire=ff354f&amp;currStreakLabel=00d4ff&amp;sideLabels=94a3b8&amp;dates=64748b&amp;border=1e293b" alt="Dhyan Doshi Contribution Streak" height="175" />
+  </a>
 </p>
 
 <p align="center">
@@ -54,7 +66,9 @@
 
 <div align="center">
 
-<img src="./assets/connect.svg?v=1" alt="Connect With Dhyan Doshi" width="100%" />
+<a href="#connect" id="connect">
+  <img src="./assets/connect.svg?v=1" alt="Connect With Dhyan Doshi" width="100%" />
+</a>
 
 <p align="center">
   <a href="https://github.com/Dhyan-Doshi">
