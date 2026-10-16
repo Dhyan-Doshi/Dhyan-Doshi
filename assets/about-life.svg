@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 890 380" width="890" height="380" fill="none">
+  <defs>
+    <linearGradient id="about-border-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#247bff" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#ff354f" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#247bff" stop-opacity="0.7"/>
+    </linearGradient>
+    <pattern id="about-dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#247bff" fill-opacity="0.12"/>
+    </pattern>
+    <radialGradient id="about-glow" cx="80%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#247bff" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#247bff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <style>
+    .about-bg { fill: #070b16; }
+    .about-font { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+
+    @keyframes about-bar-1 {
+      0% { width: 0px; }
+      30%, 100% { width: 95px; }
+    }
+    @keyframes about-bar-2 {
+      0%, 33.3% { width: 0px; }
+      63.3%, 100% { width: 95px; }
+    }
+    @keyframes about-bar-3 {
+      0%, 66.6% { width: 0px; }
+      96.6%, 100% { width: 95px; }
+    }
+
+    .about-progress-1 { animation: about-bar-1 12s infinite linear; }
+    .about-progress-2 { animation: about-bar-2 12s infinite linear; }
+    .about-progress-3 { animation: about-bar-3 12s infinite linear; }
+
+    @media (prefers-reduced-motion: reduce) {
+      .about-progress-1, .about-progress-2, .about-progress-3 {
+        animation: none !important;
+      }
+      .about-progress-1 { width: 95px !important; }
+      .about-progress-2, .about-progress-3 { width: 0px !important; }
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="890" height="380" rx="16" class="about-bg"/>
+  <rect width="890" height="380" rx="16" fill="url(#about-dots)"/>
+  <rect width="890" height="380" rx="16" fill="url(#about-glow)"/>
+  <rect x="1" y="1" width="888" height="378" rx="15" fill="none" stroke="url(#about-border-grad)" stroke-width="1.5"/>
+
+  <!-- Section Header -->
+  <g class="about-font" transform="translate(48, 42)">
+    <rect width="90" height="22" rx="6" fill="#0d1b33" stroke="#247bff" stroke-opacity="0.4" stroke-width="1"/>
+    <text x="12" y="15" fill="#38bdf8" font-size="11" font-weight="700" letter-spacing="1">ABOUT ME</text>
+    <text x="105" y="16" fill="#ffffff" font-size="20" font-weight="800">Engineering Pillars &amp; Core Interests</text>
+  </g>
+
+  <!-- Left Column: Core Pillars (3 Cards) -->
+  <g class="about-font" transform="translate(48, 85)">
+    <!-- Pillar 1 -->
+    <g transform="translate(0, 0)">
+      <rect width="400" height="76" rx="12" fill="#0b1325" stroke="#1e293b" stroke-width="1"/>
+      <circle cx="36" cy="38" r="18" fill="#0f2347"/>
+      <path d="M30 34 L24 38 L30 42 M42 34 L48 38 L42 42 M38 32 L34 44" stroke="#00d4ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="66" y="28" fill="#f8fafc" font-size="14" font-weight="700">Full-Stack Product Engineering</text>
+      <text x="66" y="47" fill="#94a3b8" font-size="12">Shipping robust web applications with Next.js, Node &amp; Express</text>
+      <text x="66" y="63" fill="#38bdf8" font-size="10.5" font-weight="600">React • TypeScript • MongoDB • Tailwind CSS</text>
+    </g>
+
+    <!-- Pillar 2 -->
+    <g transform="translate(0, 88)">
+      <rect width="400" height="76" rx="12" fill="#0b1325" stroke="#1e293b" stroke-width="1"/>
+      <circle cx="36" cy="38" r="18" fill="#331422"/>
+      <path d="M28 33 L34 38 L28 43 M36 43 L44 43" stroke="#ff354f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="66" y="28" fill="#f8fafc" font-size="14" font-weight="700">Algorithmic Problem Solving &amp; DSA</text>
+      <text x="66" y="47" fill="#94a3b8" font-size="12">Mastering data structures, dynamic programming &amp; complexity</text>
+      <text x="66" y="63" fill="#ff7589" font-size="10.5" font-weight="600">C++ • Data Structures • Algorithms • LeetCode</text>
+    </g>
+
+    <!-- Pillar 3 -->
+    <g transform="translate(0, 176)">
+      <rect width="400" height="76" rx="12" fill="#0b1325" stroke="#1e293b" stroke-width="1"/>
+      <circle cx="36" cy="38" r="18" fill="#25123d"/>
+      <path d="M36 29 L38 35 L44 37 L38 39 L36 45 L34 39 L28 37 L34 35 Z" fill="none" stroke="#c084fc" stroke-width="1.8" stroke-linejoin="round"/>
+      <text x="66" y="28" fill="#f8fafc" font-size="14" font-weight="700">Applied AI &amp; Machine Learning</text>
+      <text x="66" y="47" fill="#94a3b8" font-size="12">Exploring neural workflows, model integration &amp; intelligent tools</text>
+      <text x="66" y="63" fill="#d8b4fe" font-size="10.5" font-weight="600">Python • Neural Networks • Intelligent Agents</text>
+    </g>
+  </g>
+
+  <!-- Right Column: 3-Slide Carousel Card with SMIL Cycling -->
+  <g class="about-font" transform="translate(475, 85)">
+    <!-- Container Box -->
+    <rect width="365" height="252" rx="14" fill="#091224" stroke="#247bff" stroke-opacity="0.3" stroke-width="1.5"/>
+    <rect width="365" height="252" rx="14" fill="url(#about-dots)"/>
+
+    <!-- Header / Indicator -->
+    <g transform="translate(24, 28)">
+      <text x="0" y="0" fill="#64748b" font-size="11" font-weight="700" letter-spacing="1">PASSION &amp; FOCUS • CYCLING EVERY 4S</text>
+    </g>
+
+    <!-- SLIDE 1: Building Products (0s - 4s) -->
+    <g transform="translate(24, 46)" opacity="1">
+      <animate attributeName="opacity" values="1;1;0;0;0;0;0;1" keyTimes="0;0.30;0.33;0.66;0.70;0.96;0.98;1" dur="12s" repeatCount="indefinite"/>
+      <circle cx="20" cy="20" r="20" fill="#0e244d"/>
+      <text x="10" y="27" font-size="20">🚀</text>
+      <text x="50" y="17" fill="#f8fafc" font-size="16" font-weight="800">Building Products</text>
+      <text x="50" y="34" fill="#38bdf8" font-size="12" font-weight="600">Live Startup: OutRenz</text>
+
+      <text x="0" y="68" fill="#cbd5e1" font-size="12.5" line-height="19">
+        <tspan x="0" dy="0">Passionate about converting practical student needs into</tspan>
+        <tspan x="0" dy="19">polished products. Built OutRenz from concept to</tspan>
+        <tspan x="0" dy="19">deployment, focusing on seamless rental workflows.</tspan>
+      </text>
+
+      <g transform="translate(0, 118)">
+        <rect width="130" height="22" rx="11" fill="#071b38" stroke="#247bff" stroke-width="1"/>
+        <text x="12" y="15" fill="#38bdf8" font-size="10.5" font-weight="700">outrenz.in • Live Platform</text>
+      </g>
+    </g>
+
+    <!-- SLIDE 2: Competitive DSA (4s - 8s) -->
+    <g transform="translate(24, 46)" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0;0;0" keyTimes="0;0.31;0.34;0.63;0.66;0.96;0.98;1" dur="12s" repeatCount="indefinite"/>
+      <circle cx="20" cy="20" r="20" fill="#3a1424"/>
+      <text x="10" y="27" font-size="20">⚡</text>
+      <text x="50" y="17" fill="#f8fafc" font-size="16" font-weight="800">Competitive DSA</text>
+      <text x="50" y="34" fill="#ff7589" font-size="12" font-weight="600">Daily Problem Solving in C++</text>
+
+      <text x="0" y="68" fill="#cbd5e1" font-size="12.5" line-height="19">
+        <tspan x="0" dy="0">Deepening analytical rigor through algorithmic puzzles.</tspan>
+        <tspan x="0" dy="19">Focused on mastering arrays, trees, dynamic programming,</tspan>
+        <tspan x="0" dy="19">and optimal time-space computational tradeoffs.</tspan>
+      </text>
+
+      <g transform="translate(0, 118)">
+        <rect width="145" height="22" rx="11" fill="#331221" stroke="#ff354f" stroke-width="1"/>
+        <text x="12" y="15" fill="#ff7589" font-size="10.5" font-weight="700">LeetCode • Active Learner</text>
+      </g>
+    </g>
+
+    <!-- SLIDE 3: AI/ML Exploration (8s - 12s) -->
+    <g transform="translate(24, 46)" opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;1;1;0;0" keyTimes="0;0.64;0.66;0.95;0.98;0.99;0.995;1" dur="12s" repeatCount="indefinite"/>
+      <circle cx="20" cy="20" r="20" fill="#2d1445"/>
+      <text x="10" y="27" font-size="20">🤖</text>
+      <text x="50" y="17" fill="#f8fafc" font-size="16" font-weight="800">AI/ML Exploration</text>
+      <text x="50" y="34" fill="#c084fc" font-size="12" font-weight="600">Applied Intelligence &amp; Models</text>
+
+      <text x="0" y="68" fill="#cbd5e1" font-size="12.5" line-height="19">
+        <tspan x="0" dy="0">Experimenting with machine learning pipelines, geospatial</tspan>
+        <tspan x="0" dy="19">hazard analysis in RainGuard, and integrating modern</tspan>
+        <tspan x="0" dy="19">AI models into practical user-facing software.</tspan>
+      </text>
+
+      <g transform="translate(0, 118)">
+        <rect width="145" height="22" rx="11" fill="#200d36" stroke="#a855f7" stroke-width="1"/>
+        <text x="12" y="15" fill="#d8b4fe" font-size="10.5" font-weight="700">RainGuard &amp; AI Prototypes</text>
+      </g>
+    </g>
+
+    <!-- Segment Progress Bars (3 segments) -->
+    <g transform="translate(24, 224)">
+      <!-- Segment 1 -->
+      <g transform="translate(0, 0)">
+        <rect width="95" height="4" rx="2" fill="#1e293b"/>
+        <rect height="4" rx="2" fill="#00d4ff" class="about-progress-1"/>
+      </g>
+      <!-- Segment 2 -->
+      <g transform="translate(110, 0)">
+        <rect width="95" height="4" rx="2" fill="#1e293b"/>
+        <rect height="4" rx="2" fill="#ff354f" class="about-progress-2"/>
+      </g>
+      <!-- Segment 3 -->
+      <g transform="translate(220, 0)">
+        <rect width="95" height="4" rx="2" fill="#1e293b"/>
+        <rect height="4" rx="2" fill="#c084fc" class="about-progress-3"/>
+      </g>
+    </g>
+  </g>
+</svg>

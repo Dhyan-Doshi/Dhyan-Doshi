@@ -1,136 +1,87 @@
-# Hey, I'm Dhyan 👋
-
-### CSE @ MIT-WPU, Pune | Full-Stack Developer | AI/ML | Competitive Programming
-
-I build real-world products, explore AI/ML, and enjoy solving problems through code. Currently focused on **DSA, full-stack engineering, and building projects that solve practical problems.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Dhyan--Doshi-181717?style=for-the-badge\&logo=github)](https://github.com/Dhyan-Doshi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhyan%20Doshi-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/dhyan-doshi/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Dhyan27-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/Dhyan27/)
-[![OutRenz](https://img.shields.io/badge/OutRenz-Live%20Product-111111?style=for-the-badge)](https://outrenz.in)
-
-## 🚀 Featured Project
-
-### 👗 OutRenz
-
-**Peer-to-peer clothing rental marketplace**
-
-A production-ready platform designed to make clothing rental more accessible while helping people monetize clothes sitting unused in their wardrobes.
-
-**Key Features**
-
-* 🛍️ Marketplace & product discovery
-* 📦 Rental lifecycle & booking management
-* 💰 Dynamic pricing, deposits & payouts
-* 📏 SmartFit sizing experience
-* 👤 Lister onboarding & management
-* 🧼 Hygiene & quality workflow
-* 🔐 Trust & safety mechanisms
-
-🌐 [Live Product](https://outrenz.in)
-📂 [Project Showcase](https://github.com/Dhyan-Doshi/OutRenz)
-
-> Production source code is private because OutRenz is an active product.
-
----
-## 🏆 Achievements
-
-- 📈 **QuantStorm '26 — National Rank #74**
-- 🏆 **Hackathon Finalist**
-- 💻 **Competitive Programming & DSA**
-  
-## 💻 Tech Stack
-
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-
-**AI / Data**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
-
----
-
-## 📂 Other Projects
-
-### 💻 DSA Solutions
-
-C++ solutions and implementations from my Data Structures & Algorithms practice.
-
-🔗 [View Repository](https://github.com/Dhyan-Doshi/dsa-solutions)
-
-### 🔬 Diffraction Grating Simulator
-
-An interactive computational simulation for visualizing diffraction-grating behaviour and exploring the underlying physics.
-
-🔗 [View Repository](https://github.com/Dhyan-Doshi/Diffraction-Grating-Simulator)
-
-### ☕ Coffee Culture UI
-
-A premium coffee website UI featuring immersive animations, an interactive menu, and a custom order-building experience.
-
-🔗 [View Repository](https://github.com/Dhyan-Doshi/coffee-culture-ui)
-
----
-
-## 📊 GitHub Activity
+# Dhyan Doshi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dhyan-Doshi&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+![Hero — Dhyan Doshi](./assets/hero.svg?v=1)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhyan-Doshi&layout=compact&hide_border=true" height="170"/>
+![About & Engineering Pillars](./assets/about-life.svg?v=1)
+
+![Tech Stack & Toolkit](./assets/stack.svg?v=1)
+
+![Developer ID & Verified Records](./assets/id-dashboard.svg?v=1)
+
+</div>
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| **OutRenz** | Student-focused clothing rental platform engineered to simplify outfit rentals through an intuitive booking and catalog interface. | Next.js, React, TypeScript, Node.js, Express, MongoDB, Tailwind CSS | [Live Website](https://outrenz.in) |
+| **RainGuard** | Disaster-response coordination system exploring citizen hazard reporting, affected-area spatial mapping, and route accessibility. | Python, GIS / Spatial Data, Web Architecture | [GitHub Repository](https://github.com/darshannayak21/Team-CafeTerminal-HM50049) |
+| **DSA Practice** | Structured repository for daily algorithmic problem solving, time-space optimization, and competitive programming challenges. | C++, Algorithms, Data Structures | *Add your DSA repo URL here* |
+
+---
+
+## 🛠️ Technical Arsenal
+
+- **Languages:** C, C++, Python, JavaScript, TypeScript
+- **Frontend & Web:** React, Next.js, HTML5, CSS3, Tailwind CSS
+- **Backend & APIs:** Node.js, Express.js, RESTful APIs
+- **Database & Cloud:** MongoDB, Mongoose, Cloudinary, Vercel
+- **Version Control & Dev Tools:** Git, GitHub, VS Code
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhyan-Doshi&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=070b16&amp;title_color=38bdf8&amp;icon_color=247bff&amp;text_color=94a3b8&amp;border_color=1e293b" alt="Dhyan Doshi GitHub Stats" height="175" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=Dhyan-Doshi&amp;theme=tokyonight&amp;background=070b16&amp;ring=247bff&amp;fire=ff354f&amp;currStreakLabel=00d4ff&amp;sideLabels=94a3b8&amp;dates=64748b&amp;border=1e293b" alt="Dhyan Doshi Contribution Streak" height="175" />
+</p>
+
+
+<p align="center">
+  <sub><em>Metrics are automatically aggregated from public GitHub repositories via GitHub Readme Stats and Streak Stats APIs. Upstream caching applies.</em></sub>
+</p>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always interested in discussing **technology, AI/ML, DSA, hackathons, and interesting product ideas.**
-
-<p align="left">
-
-<a href="https://github.com/Dhyan-Doshi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/dhyan-doshi/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Dhyan27/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</p>
-
----
+## 🤝 Connect With Me
 
 <div align="center">
 
-### ⚡ Build. Break. Learn. Repeat.
+![Connect With Dhyan Doshi](./assets/connect.svg?v=1)
+
+<p align="center">
+  <a href="https://github.com/Dhyan-Doshi">
+    <img src="https://img.shields.io/badge/GitHub-Dhyan--Doshi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/dhyan-doshi/">
+    <img src="https://img.shields.io/badge/LinkedIn-dhyan--doshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Dhyan27/">
+    <img src="https://img.shields.io/badge/LeetCode-Dhyan27-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="https://outrenz.in">
+    <img src="https://img.shields.io/badge/OutRenz-outrenz.in-FF354F?style=for-the-badge&logo=vercel&logoColor=white" alt="OutRenz" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Dhyan-Doshi"><strong>GitHub</strong></a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/dhyan-doshi/"><strong>LinkedIn</strong></a> &nbsp;•&nbsp;
+  <a href="https://leetcode.com/u/Dhyan27/"><strong>LeetCode</strong></a> &nbsp;•&nbsp;
+  <a href="https://outrenz.in"><strong>OutRenz</strong></a>
+</p>
+
+<sub>Building practical software products, strengthening algorithmic problem-solving, and exploring intelligent systems.</sub>
 
 </div>
