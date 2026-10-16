@@ -2,13 +2,13 @@
 
 <div align="center">
 
-![Hero — Dhyan Doshi](./assets/hero.svg?v=1)
+<img src="./assets/hero.svg?v=1" alt="Hero — Dhyan Doshi" width="100%" />
 
-![About & Engineering Pillars](./assets/about-life.svg?v=1)
+<img src="./assets/about-life.svg?v=1" alt="About &amp; Engineering Pillars" width="100%" />
 
-![Tech Stack & Toolkit](./assets/stack.svg?v=1)
+<img src="./assets/stack.svg?v=1" alt="Tech Stack &amp; Toolkit" width="100%" />
 
-![Developer ID & Verified Records](./assets/id-dashboard.svg?v=1)
+<img src="./assets/id-dashboard.svg?v=1" alt="Developer ID &amp; Verified Records" width="100%" />
 
 </div>
 
@@ -18,7 +18,7 @@
 |---|---|---|---|
 | **OutRenz** | Student-focused clothing rental platform engineered to simplify outfit rentals through an intuitive booking and catalog interface. | Next.js, React, TypeScript, Node.js, Express, MongoDB, Tailwind CSS | [Live Website](https://outrenz.in) |
 | **RainGuard** | Disaster-response coordination system exploring citizen hazard reporting, affected-area spatial mapping, and route accessibility. | Python, GIS / Spatial Data, Web Architecture | [GitHub Repository](https://github.com/darshannayak21/Team-CafeTerminal-HM50049) |
-| **DSA Practice** | Structured repository for daily algorithmic problem solving, time-space optimization, and competitive programming challenges. | C++, Algorithms, Data Structures | *Add your DSA repo URL here* |
+| **DSA Practice** | Structured repository for daily algorithmic problem solving, time-space optimization, and competitive programming challenges. | C++, Algorithms, Data Structures | [GitHub Repository](https://github.com/Dhyan-Doshi/dsa-solutions) |
 
 ---
 
@@ -42,7 +42,6 @@
   <img src="https://streak-stats.demolab.com/?user=Dhyan-Doshi&amp;theme=tokyonight&amp;background=070b16&amp;ring=247bff&amp;fire=ff354f&amp;currStreakLabel=00d4ff&amp;sideLabels=94a3b8&amp;dates=64748b&amp;border=1e293b" alt="Dhyan Doshi Contribution Streak" height="175" />
 </p>
 
-
 <p align="center">
   <sub><em>Metrics are automatically aggregated from public GitHub repositories via GitHub Readme Stats and Streak Stats APIs. Upstream caching applies.</em></sub>
 </p>
@@ -55,7 +54,7 @@
 
 <div align="center">
 
-![Connect With Dhyan Doshi](./assets/connect.svg?v=1)
+<img src="./assets/connect.svg?v=1" alt="Connect With Dhyan Doshi" width="100%" />
 
 <p align="center">
   <a href="https://github.com/Dhyan-Doshi">
