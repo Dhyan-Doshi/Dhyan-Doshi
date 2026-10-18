@@ -30,6 +30,58 @@
 
 ---
 
+## 🛠️ Technology Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts" alt="Languages" />
+</p>
+
+C • C++ • Python • JavaScript • TypeScript
+
+---
+
+### Frontend & Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" alt="Frontend & Web" />
+</p>
+
+React • Next.js • JavaScript • TypeScript • HTML5 • CSS3 • Tailwind CSS
+
+---
+
+### Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend & APIs" />
+</p>
+
+Node.js • Express.js • RESTful APIs
+
+---
+
+### Database & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,vercel" alt="Database & Cloud" />
+</p>
+
+MongoDB • Mongoose • Cloudinary • Vercel
+
+---
+
+### Dev Tools & Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Dev Tools" />
+</p>
+
+Git • GitHub • VS Code • Postman
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
