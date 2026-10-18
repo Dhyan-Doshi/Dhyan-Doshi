@@ -7,7 +7,7 @@
 </a>
 
 <a href="#about" id="about">
-  <img src="./assets/about-life.svg?v=1" alt="About &amp; Engineering Pillars" width="100%" />
+  <img src="./assets/about-life.svg?v=3" alt="About Me &amp; Engineering Focus" width="100%" />
 </a>
 
 <a href="#stack" id="stack">
@@ -27,16 +27,6 @@
 | **OutRenz** | Student-focused clothing rental platform engineered to simplify outfit rentals through an intuitive booking and catalog interface. | Next.js, React, TypeScript, Node.js, Express, MongoDB, Tailwind CSS | [Live Website](https://outrenz.in) |
 | **RainGuard** | Disaster-response coordination system exploring citizen hazard reporting, affected-area spatial mapping, and route accessibility. | Python, GIS / Spatial Data, Web Architecture | [GitHub Repository](https://github.com/darshannayak21/Team-CafeTerminal-HM50049) |
 | **DSA Practice** | Structured repository for daily algorithmic problem solving, time-space optimization, and competitive programming challenges. | C++, Algorithms, Data Structures | [GitHub Repository](https://github.com/Dhyan-Doshi/dsa-solutions) |
-
----
-
-## 🛠️ Technical Arsenal
-
-- **Languages:** C, C++, Python, JavaScript, TypeScript
-- **Frontend & Web:** React, Next.js, HTML5, CSS3, Tailwind CSS
-- **Backend & APIs:** Node.js, Express.js, RESTful APIs
-- **Database & Cloud:** MongoDB, Mongoose, Cloudinary, Vercel
-- **Version Control & Dev Tools:** Git, GitHub, VS Code
 
 ---
 
@@ -67,7 +57,7 @@
 <div align="center">
 
 <a href="#connect" id="connect">
-  <img src="./assets/connect.svg?v=1" alt="Connect With Dhyan Doshi" width="100%" />
+  <img src="./assets/connect.svg?v=2" alt="Connect With Dhyan Doshi" width="100%" />
 </a>
 
 <p align="center">
